@@ -1,4 +1,6 @@
 # 3D-OrbiSIMS and AP-MALDI
+Please download 'Scripts and Demo data'
+
 This is only for txt file.
 The instruction and explaination was placed inside the folder.
 The scripts include average multi-blanks, background subtraction, MS alignment, MS filter, KNN imputation, t-test, and fold change
